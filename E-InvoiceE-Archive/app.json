@@ -1,0 +1,31 @@
+{
+  "id": "025dd1dc-62d7-4a9e-964c-9263dc9be465",
+  "name": "E-Invoice/E-Archive",
+  "publisher": "Parge Yazilim Danismanlik Tic.A.S.",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 70093471,
+      "to": 70093550
+    }
+  ],
+  "features": [
+    "NoImplicitWith"
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  }
+}
