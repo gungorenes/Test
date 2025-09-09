@@ -1,10 +1,11 @@
 {
-    "folders":  [
-                    {
-                        "path":  ".AL-Go"
-                    }
-                ],
-    "settings":  {
-
-                 }
+  "folders": [
+    {
+      "path": "E-InvoiceE-Archive"
+    },
+    {
+      "path": ".AL-Go"
+    }
+  ],
+  "settings": {}
 }
