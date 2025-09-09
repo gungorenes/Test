@@ -27,5 +27,6 @@
     "includeSourceInSymbolFile": false
   },
   "runtime": "13.0",
-  "features": ["TranslationFile"]
+  "features": ["TranslationFile"],
+  "affixes": ["PRG"]
 }
