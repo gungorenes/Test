@@ -1,31 +1,31 @@
 {
-  "id": "025dd1dc-62d7-4a9e-964c-9263dc9be465",
+  "id": "15e883f5-6d65-488f-910e-3410dee79a6d",
   "name": "E-Invoice/E-Archive",
   "publisher": "Parge Yazilim Danismanlik Tic.A.S.",
-  "version": "1.0.0.0",
-  "brief": "",
-  "description": "",
-  "privacyStatement": "",
-  "EULA": "",
-  "help": "",
-  "url": "",
-  "logo": "",
+  "version": "25.5.2.33",
+  "brief": "E-Invoice/E-Archive",
+  "description": "E-Invoice/E-Archive",
+  "privacyStatement": "https://apps.pargesoft.com.tr/privacy-policy/",
+  "EULA": "https://apps.pargesoft.com.tr/eul",
+  "help": "https://pargesoft.microsoftcrmportals.com",
+  "url": "https://www.pargesoft.com",
+  "logo": "PargesoftLogo.png",
   "dependencies": [],
   "screenshots": [],
-  "platform": "1.0.0.0",
-  "application": "22.0.0.0",
+  "platform": "24.0.0.0",
+  "application": "24.0.0.0",
   "idRanges": [
     {
       "from": 70093471,
       "to": 70093550
     }
   ],
-  "features": [
-    "NoImplicitWith"
-  ],
+  "contextSensitiveHelpUrl": "https://pargesoft.microsoftcrmportals.com", 
   "resourceExposurePolicy": {
-    "allowDebugging": true,
+    "allowDebugging": false,
     "allowDownloadingSource": false,
     "includeSourceInSymbolFile": false
-  }
+  },
+  "runtime": "13.0",
+  "features": ["TranslationFile"]
 }
