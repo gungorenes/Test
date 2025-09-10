@@ -1,0 +1,7 @@
+{
+  "name": "AppSourceCop",
+  "description": "Ruleset for AppSource",
+  "publisher": "Parge Yazilim Danismanlik Tic.A.S.",
+  "version": "25.0.0.0",
+  "mandatoryAffixes": [ "PRG" ]
+}
